@@ -35,3 +35,9 @@ A lightweight, modular Windows utility designed to format, repartition, and reco
    ```bash
    git clone [https://github.com/Mannyland982/usb-partition-tool.git](https://github.com/Mannyland982/usb-partition-tool.git)
    cd usb-partition-tool
+Run the tool:
+Open a terminal/command prompt as Administrator and run:
+
+Bash
+python main.py
+(Note: No third-party dependencies required. The tool relies entirely on Python's built-in standard library).
